@@ -6,7 +6,7 @@ public class Class2
    
    public Class2()
    {
-      this( "" );
+      this( null );
    }
    
    public Class2( String s )
