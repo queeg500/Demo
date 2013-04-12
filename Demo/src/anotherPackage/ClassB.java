@@ -2,10 +2,10 @@ package anotherPackage;
 
 public class ClassB
 {
-   private final ClassB b;
+   private final ClassA a;
    
-   public ClassB( ClassB b )
+   public ClassB( ClassA a )
    {
-      this.b = b;
+      this.a = a;
    }
 }
