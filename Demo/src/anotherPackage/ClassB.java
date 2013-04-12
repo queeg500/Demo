@@ -9,4 +9,11 @@ public class ClassB
    {
       this.b = b;
    }
+   
+   @Override
+   public String toString()
+   {
+      // TODO Auto-generated method stub
+      return super.toString();
+   }
 }
