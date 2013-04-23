@@ -3,7 +3,7 @@ package anotherPackage;
 public class ClassB
 {
    private final ClassB b;
-   private ClassB b2;
+   private ClassC b2;
    
    public ClassB( ClassB b )
    {
